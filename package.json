@@ -1,0 +1,26 @@
+{
+"name": "vdjljg-24-dkv",
+"version": "1.0.0",
+"description": "The Online Cooking and Recipe Community brings together cooking enthusiasts, chefs, and food bloggers to share recipes, cooking tips, and culinary experiences, fostering creativity and culinary exploration.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/np6652fe/-Online-Cooking-and-Recipe-Community.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "np6652fe",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
